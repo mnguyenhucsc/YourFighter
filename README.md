@@ -1,3 +1,4 @@
+https://github.com/mnguyenhucsc/YourFighter
 THE README:
 
 The purpose of this class is to have your fighter, say their name, age, height, and move set. Bonus things we can do with this class are things like adding moves and adding nicknames to your fighters.
